@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038068486317",
+    "project_id": "placeapp-6247b",
+    "storage_bucket": "placeapp-6247b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038068486317:android:83d8c1d7df63a9652df624",
+        "android_client_info": {
+          "package_name": "com.example.placeApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038068486317-v1d7td10o2sn1jb5utqi9n2m6jth41t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMeAml-SASKWmDeOIsV86NI3z5ET64DEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038068486317-v1d7td10o2sn1jb5utqi9n2m6jth41t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
