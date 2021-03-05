@@ -119,7 +119,14 @@ class _LoginScreenState extends State<LoginScreen> {
                 ],
               ),
             ),
-            TextButton(onPressed: _submit, child: Text('submit'))
+            TextButton(
+              onPressed: _submit,
+              child: Text('submit'),
+              style: TextButton.styleFrom(
+                  padding: EdgeInsets.symmetric(vertical: 10, horizontal: 20),
+                  primary: Colors.white,
+                  backgroundColor: Colors.amber),
+            )
           ],
         ),
       ),

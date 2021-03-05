@@ -27,7 +27,7 @@ class OfficeItem extends StatelessWidget {
                       Text('Longitude: ${items.longitude.toStringAsFixed(5)}'),
                     ],
                   ),
-                  Text('Range: ${items.radius} M'),
+                  Text('Radius: ${items.radius} M'),
                 ],
               ),
 

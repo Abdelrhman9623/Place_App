@@ -105,6 +105,7 @@ class _AddNewLocationState extends State<AddNewLocation> {
               ),
               Container(
                 child: TextFormField(
+                  keyboardType: TextInputType.number,
                   decoration: InputDecoration(
                       fillColor: Colors.white,
                       focusColor: Color(0xfffea13b),
@@ -126,6 +127,7 @@ class _AddNewLocationState extends State<AddNewLocation> {
               ),
               Container(
                 child: TextFormField(
+                  keyboardType: TextInputType.number,
                   decoration: InputDecoration(
                       fillColor: Colors.white,
                       focusColor: Color(0xfffea13b),

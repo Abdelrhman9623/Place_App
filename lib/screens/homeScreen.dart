@@ -70,7 +70,7 @@ class _HomeScreenState extends State<HomeScreen> {
           setState(() {
             empolyeeName = '';
             _isLoading = false;
-            _locationId = '';
+            _locationId = null;
             _locationName = '';
             _date = '';
             _time = '';
